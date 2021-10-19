@@ -1,0 +1,20 @@
+{
+  "name": "backend-salary-calculator",
+  "version": "1.0.0",
+  "description": "Salary-calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evair-dev/backend-salary-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evair-dev/backend-salary-calculator/issues"
+  },
+  "homepage": "https://github.com/evair-dev/backend-salary-calculator#readme"
+}
